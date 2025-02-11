@@ -40,6 +40,10 @@
   .input {
     @apply h-12 px-[14px];
   }
+  :root {
+
+    --radius: 0.5rem
+  }
 }
 
 .active {

@@ -1,9 +1,17 @@
-import React from 'react'
+import AnimatedText from "./AnimateedText"
+import Cards from "./Cards/Cards"
+
 
 const Journey = () => {
   return (
-    <section className="bg-red-200 py-96" id="journey">
-      journey
+    <section id="journey">
+      <div className=" container mx-auto">
+        <AnimatedText 
+        text="My Professional Joourney" 
+        textStyles="h2 mb-[30px] text-center" 
+        />
+        <Cards />
+      </div>
     </section>
   )
 }

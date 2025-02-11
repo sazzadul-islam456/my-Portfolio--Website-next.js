@@ -2,7 +2,7 @@ import StatsItem from "./StatsItem";
 
 const statsData = [
   {
-    endCountNum: 10,
+    endCountNum: 2,
     endCountText: "+",
     text: "Yrs of Experience",
   },

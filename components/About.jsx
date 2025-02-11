@@ -16,7 +16,7 @@ const About = () => {
               {/* image */}
               <div className=" rounded-tl-[8px] rounded-tr-[120pc] w-full bg-[#e5f8f6] min-h-[489px] flex items-end justify-center">
                 <Image
-                src="/assets/about/img.png"
+                src="/assets/hero/dev2.png"
                 width={350}
                 height={478}
                 quality={100}
