@@ -27,7 +27,7 @@ const Socials = ({ containerStyles, iconStyles }) => {
     <div className={containerStyles}>
       {social.map((item, index) => (
         <Link href={item.path} key={index} target="_blank" rel="noopener noreferrer" className={iconStyles}>
-          {item.icon} {/* ✅ Removed unnecessary <span> */}
+          {item.icon} 
         </Link>
       ))}
     </div>

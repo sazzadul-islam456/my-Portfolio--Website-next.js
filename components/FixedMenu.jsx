@@ -46,10 +46,10 @@ const FixedMenu = () => {
       <AnimatePresence>
         {showMenu && (
           <motion.div
-            initial={{ opacity: 0, y: "-50%" }} // Start above the center
-            animate={{ opacity: 1, y: 0 }} // Move to the center
-            exit={{ opacity: 0, y: "-50%" }} // Exit back to above the center
-            transition={{ type: "spring", stiffness: 400, damping: 40 }} // Smooth transition
+            initial={{ opacity: 0, y: "-50%" }} 
+            animate={{ opacity: 1, y: 0 }} 
+            exit={{ opacity: 0, y: "-50%" }} 
+            transition={{ type: "spring", stiffness: 400, damping: 40 }} 
             className="fixed top-0 left-0 w-full h-full z-50 flex justify-center items-center pointer-events-auto bg-transparent"
           >
             <button

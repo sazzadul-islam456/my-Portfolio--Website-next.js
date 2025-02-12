@@ -8,6 +8,7 @@ import Work from "@/components/Work/Work";
 import Contact from "@/components/Contact";
 import FixedMenu from "@/components/FixedMenu";
 import Testimonial from "@/components/Testimonial/Testimonial";
+import Footer from "@/components/Footer";
 
 const Home = () => {
   // Implement Locomotive Scroll
@@ -30,8 +31,9 @@ const Home = () => {
       <Work />
       <Testimonial />
       <Contact />
+      <Footer />
       {/* Temporary div */}
-      <div className="h-[3000px]"></div>
+      {/* <div className="h-[3000px]"></div> */}
     </div>
   );
 };
