@@ -65,7 +65,7 @@ const About = () => {
     {/* Age */}
     <div className="max-w-max text-center md:text-left">
       <div className="uppercase font-bold text-primary">Age</div>
-      <p>30 Years</p>
+      <p>25 Years</p>
     </div>
 
     {/* Born in */}
