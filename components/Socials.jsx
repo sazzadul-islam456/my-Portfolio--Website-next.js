@@ -1,5 +1,5 @@
 import React from "react";
-import Link from "next/link"; // ✅ Correct import for Next.js links
+import Link from "next/link"; 
 import { FaFacebookF, FaTwitter, FaLinkedin } from "react-icons/fa";
 import { RiInstagramFill } from "react-icons/ri";
 
@@ -10,7 +10,7 @@ const social = [
   },
   {
     icon: <FaFacebookF />,
-    path: "https://www.facebook.com/",
+    path: "https://www.facebook.com/share/15C1CwT5Uk/",
   },
   {
     icon: <FaTwitter />,
@@ -18,7 +18,7 @@ const social = [
   },
   {
     icon: <FaLinkedin />,
-    path: "https://www.linkedin.com/",
+    path: "https://www.linkedin.com/in/sazzadul-isalm-talha",
   },
 ];
 
