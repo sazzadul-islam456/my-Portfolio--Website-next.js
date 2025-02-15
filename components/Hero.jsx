@@ -14,7 +14,7 @@ const Hero = () => {
       <Header />
 
       <div className="container mx-auto h-full flex items-center">
-        <div className="relative z-20 xl:max-w-[768px] text-center items-center xl:text-left animate-fadeIn">
+        <div className="relative z-20 h-full w-full xl:max-w-[768px] flex flex-col text-center items-center xl:items-start justify-center xl:text-left pt-18 animate-fadeIn">
           <h1 className="text-4xl mb-2 max-w-[320px] xl:max-w-none md:text-5xl font-bold leading-snug">
             <span className="text-accent">I Build And</span>
             <br />
@@ -30,8 +30,7 @@ const Hero = () => {
             />
           </h1>
           <p className="lead max-w-[476px] mb-7">
-            Delivering powerful, custom websites that blend aesthetics with
-            performance.
+          From static to dynamic, Next.js adapts to your needs! 
           </p>
           <ScrollLink to="contact" smooth>
             <button className="btn btn-accent mb-8">Contact me</button>

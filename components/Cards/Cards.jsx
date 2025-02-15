@@ -96,7 +96,7 @@ const journey = [
     qualification: "Full Stack",
     duration: "Jan 2023 - Feb 2024",
     description:
-      "Learned full-stack development concepts, focusing on React, Node.js and APIs. Completed hands-on projects to solidify skills.",
+      "HTML is the foundation of the web—clean structure, better accessibility, endless possibilities! ",
   },
   {
     type: "skill",
@@ -105,7 +105,7 @@ const journey = [
     qualification: "Full Stack",
     duration: "Jan 2023 - Feb 2024",
     description:
-      "Learned full-stack development concepts, focusing on React, Node.js and APIs. Completed hands-on projects to solidify skills.",
+      "CSS brings the web to life—style, responsiveness, and creativity in every line!.",
   },
   {
     type: "skill",
@@ -114,7 +114,7 @@ const journey = [
     qualification: "Full Stack",
     duration: "Jan 2023 - Feb 2024",
     description:
-      "Learned full-stack development concepts, focusing on React, Node.js and APIs. Completed hands-on projects to solidify skills.",
+      "JavaScript adds the magic—interactive, dynamic, and powerful!",
   },
   {
     type: "skill",
@@ -123,7 +123,7 @@ const journey = [
     qualification: "Full Stack",
     duration: "Jan 2023 - Feb 2024",
     description:
-      "Learned full-stack development concepts, focusing on React, Node.js and APIs. Completed hands-on projects to solidify skills.",
+      "React makes UI development fast, scalable, and efficient—build once, update everywhere!",
   },
   {
     type: "skill",
@@ -132,7 +132,7 @@ const journey = [
     qualification: "Full Stack",
     duration: "Jan 2023 - Feb 2024",
     description:
-      "Learned full-stack development concepts, focusing on React, Node.js and APIs. Completed hands-on projects to solidify skills.",
+      "WordPress powers the web—flexible, customizable, and built for everyone!",
   },
   {
     type: "skill",
@@ -141,7 +141,7 @@ const journey = [
     qualification: "Full Stack",
     duration: "Jan 2023 - Feb 2024",
     description:
-      "Learned full-stack development concepts, focusing on React, Node.js and APIs. Completed hands-on projects to solidify skills.",
+      "Figma turns ideas into reality—design, collaborate, and prototype seamlessly!",
   },
 ];
 
